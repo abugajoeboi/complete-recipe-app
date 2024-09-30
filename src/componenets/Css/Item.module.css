@@ -1,0 +1,23 @@
+.ingredient{
+    box-shadow: 5px 6px 12px rgba(0, 0, 0, 0.3);
+    padding: 10px 15px;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+} 
+.ingredient:hover{
+    box-shadow: 3px 8px 15px rgba(0, 0, 0, 0.5);  
+}
+.itemimg{
+    height: 120px;
+    width: 120px;
+}
+.itemqty{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    margin-bottom: 3%;
+    margin-left: 5%;
+    display: inline-flex;
+}

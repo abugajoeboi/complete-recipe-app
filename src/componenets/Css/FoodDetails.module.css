@@ -1,0 +1,15 @@
+.infocard{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+.infoImg{
+    border-radius: 8px;
+    margin-left: 3% ;
+}
+.span{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin-top: 7px ;
+}
